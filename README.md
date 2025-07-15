@@ -1,11 +1,11 @@
 
-# 🐱🐶 Custom Image Classifier — Cats & Dogs
+# 🐱🐶 Custom Image Classifier  Cats & Dogs
 
 This project demonstrates how to build, train, evaluate, and visualize a custom convolutional neural network (CNN) for classifying images of cats and dogs using TensorFlow and Keras.
 
 It includes two main scripts:
-- 📈 `Day8_Image_dataset_model.py` — Model training and saving
-- 🔍 `custom_model_test.py` — Model testing, evaluation & visualization
+- 📈 `Day8_Image_dataset_model.py`  Model training and saving
+- 🔍 `custom_model_test.py`  Model testing, evaluation & visualization
 
 ---
 
